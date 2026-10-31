@@ -1,0 +1,29 @@
+SINAPSE PARA MAC
+================
+
+Instalar (uma vez só)
+---------------------
+1. Abra o Terminal (Aplicativos > Utilitários > Terminal).
+2. Digite  bash  e um espaço, arraste o arquivo "instalar.sh" desta pasta
+   para dentro da janela do Terminal e aperte Enter.
+3. Se o Mac pedir para instalar as "Ferramentas de Linha de Comando",
+   clique em Instalar, espere terminar e repita o passo 2.
+
+O Sinapse aparece na pasta Aplicativos, com ícone próprio no Dock.
+
+Atualizar no futuro
+-------------------
+Quando receber um sinapse.html novo, abra o Sinapse e use o menu
+Sinapse > "Atualizar o Sinapse com um novo arquivo…". Não precisa
+compilar de novo.
+
+Onde ficam suas tasks
+---------------------
+~/Library/Application Support/Sinapse/dados.json
+Uma cópia por dia fica em .../Sinapse/Backups (últimos 60 dias).
+Menu Sinapse > "Mostrar a pasta de dados" abre essa pasta.
+
+Trazer as tasks da versão anterior
+----------------------------------
+Na versão antiga: menu ⋯ > Exportar backup.
+No app novo: menu ⋯ > Importar backup.
