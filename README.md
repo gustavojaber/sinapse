@@ -4,7 +4,13 @@ O Sinapse é um app de tasks para macOS. A interface fica no `sinapse.html` e ro
 
 ## Apresentação
 
-[▶️ Assistir ao vídeo de apresentação](docs/apresentacao.mp4)
+
+
+https://github.com/user-attachments/assets/0c6f6312-bdb9-4831-826f-6da8f48139b8
+
+
+
+
 
 ## Requisitos
 
